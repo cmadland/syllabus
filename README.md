@@ -19,10 +19,15 @@ permalink: /
 **Phone**:  
 **Best Time to Contact**: 
 
-[Tuesdays at 4:00 p.m. PST
-or by appointment or Virtual office hours available]
+[Tuesdays at 4:00 p.m. PST or by appointment. If you can't come to my office on campus I'm happy to meet with you using a web conferencing system such as Big Blue Button]
 
 **Learning Management System**  
+
+This is an open boundary course. This means that there are various places of which you need to be aware. 
+
+* The content for the course, along with information about all assignments and assessments is on this site.
+* Confidential information such as your grades, quizzes, and some assessments are hosted in Moodle at moodle.twu.ca.
+* Your work will happen on your own blog and be syndicated via RSS to the main course hub, where you will find all posts and assignments from your colleagues.
 
 **Other** 
 
@@ -196,9 +201,11 @@ _There is not specific language for the Reasonable Accommodation policy to be in
 Any student in this course who has a disability that may prevent him or her from fully demonstrating his or her abilities should contact me personally as soon as possible so we can discuss accommodations necessary to ensure full participation and facilitate your educational opportunities.
 
 
-**Title IX Resources and Reporting Requirement**
+**TWU Bullying and Harassment Policy**
 
-For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office. Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  
+Please ensure that you are familiar with TWU's stance on bullying and harassment
+
+_For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office. Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office._  
 
 **Adjustments for Pregnancy/Childbirth Related Issues**
 
