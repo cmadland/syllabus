@@ -3,13 +3,9 @@ layout: default
 permalink: /
 ---
 
-# Course Syllabus
+# Online Course Guide
 
-**University of xxx**
-
-**College**
-
-**Unit**
+**Trinity Western University**
 
 ## Course Number: Course Title
 
@@ -21,18 +17,25 @@ permalink: /
 **Email**:  
 **Twitter**: 
 **Phone**:  
-**Office Hours**: Date, Time, Location  
+**Best Time to Contact**: 
 
-[Every Tuesday at 4:00 p.m. CST
+[Tuesdays at 4:00 p.m. PST
 or by appointment or Virtual office hours available]
 
-**Learning Management System**:  
+**Learning Management System**  
 
-**Other**: [Action Center, Course Web Site, Other contact
+**Other** 
+
+[Action Center, Course Web Site, Other contact
 information]  
 
-  
-**Course Meeting Time and Location**: _Online_
+**Course Meeting Time and Location**
+
+There are several ways that you can participate in this course. 
+* You can join us on-site each [DAY and TIME],
+* You can join the on-site class from wherever you are by using the following link [LINK],
+* You can watch a recording of the on-site class from wherever you are and at your convenience [LINK]
+* You can follow along on this site, which will be primarily a text-based summary of the on-site class.
 
 **Course Prerequisite**: _None_
 
@@ -40,11 +43,11 @@ information]
 
 **Course Description**:  
 
-_In about five sentences, describe why this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
+[Calendar Description]
 
-**Course Goals**:  
+**Ways of Knowing**:  
 
-_What are the general outcomes the course designed to achieve? How will they contribute to the students professionally? Course goals are usually broad and general._
+_Which of the ways of knowing does this course address?_
 
 **Learning Outcomes**:  
 _Learning outcomes are specific and measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
@@ -61,16 +64,22 @@ _Put learning outcomes under categories if you have a long list of outcomes._
 ·     
 _Consider including how each Learning Outcome will be assessed._
 
-### Texts and Materials:
+### Texts and Materials
 
 _List all of the text(s), materials, and any software for the course.  Be specific as to whether the item is required, recommended, or optional. It is not mandatory to have a required text for your course.  Follow the format customary to your discipline._
 
 _If you have a long list of readings, please use an Appendix at the back of the syllabus._  
+
+### Computers, Networking, and Software
   
+If you are participating in this course from a distance, you should ensure that you have a reliable computer and that you have installed the latest recommended updates to your operating system and software. 
+
+You will also need a stable connection to the internet. This course is designed so that it can be accessed from locations with limited bandwidth.
 
 ### Teaching Philosophy:
 
 _Telling students what teaching methods you will use in class and the rationale behind them will help them set realistic expectations. Providing your rationale can decrease student resistance to teaching methods that they may be less familiar and can increase their confidence in the processes in the course._
+Courses in the TWU MA Leadership program are designed around the idea of inquiry learning. This means, in short, that you will be identifying and solving authentic problems and questions that you have through the lens of the content of this course. Don't worry if this sounds like it is outside your comfort zone, we will make sure that you have all the support that you need to identify relevant and challenging questions as well as the ability to work through to some answers.
 
 ### Expectations:
 
@@ -141,7 +150,7 @@ _Provide a short description of the learning activities and assessments that wil
 
 _It is important to be specific about your grading system.  Avoid long paragraphs; use headings, numbers, and bullets to chunk information._
 
-_Clarify whether your system is point based, weighted, percentage, letter based, and whether there will be any adjustment to the final grade, either linear or Gaussian distribution (curved).  Be specific about the cutoff for each letter grade and whether these are predetermined or may be adjusted._
+_Clarify whether your system is point based, weighted, percentage, letter based, and whether there will be any adjustment to the final grade.  Be specific about the cutoff for each letter grade and whether these are predetermined or may be adjusted._
 
 ### Additional Support for Learning
 
