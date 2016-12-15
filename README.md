@@ -42,19 +42,19 @@ There are several ways that you can participate in this course.
 * You can watch a recording of the on-site class from wherever you are and at your convenience [LINK]
 * You can follow along on this site, which will be primarily a text-based summary of the on-site class.
 
-**Course Prerequisite**: _None_
+**Course Prerequisite** _None_
 
-**Course Delivery**: _Online, Blended, Flipped_  
+**Course Delivery** _Online, Blended, Flipped_  
 
-**Course Description**:  
+**Course Description**  
 
 [Calendar Description]
 
-**Ways of Knowing**:  
+**Ways of Knowing**
 
 _Which of the ways of knowing does this course address?_
 
-**Learning Outcomes**:  
+**Learning Outcomes**  
 _Learning outcomes are specific and measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
 
 ·     
@@ -81,12 +81,12 @@ If you are participating in this course from a distance, you should ensure that 
 
 You will also need a stable connection to the internet. This course is designed so that it can be accessed from locations with limited bandwidth.
 
-### Teaching Philosophy:
+### Teaching Philosophy
 
 _Telling students what teaching methods you will use in class and the rationale behind them will help them set realistic expectations. Providing your rationale can decrease student resistance to teaching methods that they may be less familiar and can increase their confidence in the processes in the course._
 Courses in the TWU MA Leadership program are designed around the idea of inquiry learning. This means, in short, that you will be identifying and solving authentic problems and questions that you have through the lens of the content of this course. Don't worry if this sounds like it is outside your comfort zone, we will make sure that you have all the support that you need to identify relevant and challenging questions as well as the ability to work through to some answers.
 
-### Expectations:
+### Expectations
 
 _Consider telling students what you expect them to do, both in class and outside of class. Although some expectations may seem self-evident, you are more likely to have students meet your expectations when you state them explicitly. Students have a better chance of being successful when they know precisely what you expect.  Instructors usually include their expectations regarding attendance, class workload, when students should complete the assigned readings, and participation._
 
@@ -151,7 +151,7 @@ _Provide a short description of the learning activities and assessments that wil
 * _It is important to provide information on the deadlines for any learning activities.  Including a table with all of the due dates can help students plan out their term.  This can also be included in the calendar feature of the learning management system._
  
 
-### Final Grade:
+### Final Grade
 
 _It is important to be specific about your grading system.  Avoid long paragraphs; use headings, numbers, and bullets to chunk information._
 
