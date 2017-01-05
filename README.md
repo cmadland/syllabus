@@ -9,13 +9,13 @@ permalink: /
 
 ## Course Number: Course Title
 
-**Semester Year**
+**Semester **
 
-**Instructor: **Dr. ××**       
-**Office**: Building Number      
-**Email**:      
-**Twitter**:     
-**Phone**:      
+**Instructor: **Dr. ××**         
+**Office**: Building Number        
+**Email**:        
+**Twitter**:       
+**Phone**:        
 **Best Time to Contact\*\*:
 
 \[Tuesdays at 4:00 p.m. PST or by appointment. If you can't come to my office on campus I'm happy to meet with you using a web conferencing system such as Big Blue Button\]
@@ -68,8 +68,6 @@ There are several ways that you can participate in this course.
 **Course Prerequisite** _None_
 
 **Course Delivery** _Online, Blended, Flipped_
-
-
 
 ### Texts and Materials
 
