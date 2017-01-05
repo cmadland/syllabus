@@ -11,14 +11,37 @@ permalink: /
 
 **Semester Year**
 
-**Instructor: **Dr. ××**     
-**Office**: Building Number    
-**Email**:    
-**Twitter**:   
-**Phone**:    
+**Instructor: **Dr. ××**       
+**Office**: Building Number      
+**Email**:      
+**Twitter**:     
+**Phone**:      
 **Best Time to Contact\*\*:
 
 \[Tuesdays at 4:00 p.m. PST or by appointment. If you can't come to my office on campus I'm happy to meet with you using a web conferencing system such as Big Blue Button\]
+
+**Course Description**
+
+\[Calendar Description\]
+
+**Ways of Knowing**
+
+_Which of the ways of knowing does this course address?_
+
+**Learning Outcomes**  
+_Learning outcomes are specific and measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
+
+·  
+_Use Bloom’s taxonomy \(_[http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/](http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/)_\) to identify the focus of your learning outcomes, then select appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_
+
+·  
+_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._
+
+·  
+_Put learning outcomes under categories if you have a long list of outcomes._
+
+·  
+_Consider including how each Learning Outcome will be assessed._
 
 **Learning Management System**
 
@@ -46,28 +69,7 @@ There are several ways that you can participate in this course.
 
 **Course Delivery** _Online, Blended, Flipped_
 
-**Course Description**
 
-\[Calendar Description\]
-
-**Ways of Knowing**
-
-_Which of the ways of knowing does this course address?_
-
-**Learning Outcomes**  
-_Learning outcomes are specific and measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
-
-·  
-_Use Bloom’s taxonomy \(_[http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/](http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/)_\) to identify the focus of your learning outcomes, then select appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_
-
-·  
-_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._
-
-·  
-_Put learning outcomes under categories if you have a long list of outcomes._
-
-·  
-_Consider including how each Learning Outcome will be assessed._
 
 ### Texts and Materials
 
