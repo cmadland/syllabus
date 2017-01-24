@@ -18,12 +18,3 @@ content_width:
 footer_design:
   - none
 ---
-&nbsp;
-
-[loginout]
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
