@@ -22,8 +22,8 @@ footer_design:
 
 [loginout]
 
-<img class="alignnone size-full wp-image-83" src="http://create.twu.ca/leadership/files/2016/10/Screen-Shot-2017-01-24-at-10.26.35-AM.png" alt="" width="1216" height="1038" />
+&nbsp;
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-84" src="http://create.twu.ca/leadership/files/2016/10/Screen-Shot-2017-01-24-at-10.27.26-AM.png" alt="" width="1940" height="1152" />
+&nbsp;
